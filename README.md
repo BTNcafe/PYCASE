@@ -6,4 +6,6 @@ UPPERCASE run with Python(3)!
 
 ![ScreenShot](https://raw.github.com/BTNcafe/PYCASE/master/PYCASE.jpg)
 
-CONTACT: contact@btncafe.com
+- UPPERCASE Official Site: http://UPPERCASE.IO
+- UPPERCASE User Group: https://www.facebook.com/groups/uppercase
+- CONTACT: contact@btncafe.com
