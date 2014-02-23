@@ -1,0 +1,1 @@
+OVERRIDE({origin:RGBA,func:function(){"use strict";global.RGBA=METHOD({run:function(n,r){var t;return t=function(n){var r=n.toString(16);return 1===r.length?"0"+r:r},"#"+t(r[0])+t(r[1])+t(r[2])}})}});

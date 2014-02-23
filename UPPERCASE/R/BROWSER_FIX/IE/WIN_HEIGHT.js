@@ -1,0 +1,1 @@
+OVERRIDE({origin:WIN_HEIGHT,func:function(){"use strict";global.WIN_HEIGHT=METHOD({run:function(){return document.documentElement.offsetHeight}})}});

@@ -1,0 +1,1 @@
+global.OBJECT=METHOD({statics:function(n){"use strict";var t,i,u=[],a=!1;n.addReady=t=function(n){a===!0?n():u.push(n)},n.init=i=function(){EACH(u,function(n){n()}),a=!0}},run:function(n,t){"use strict";var i=(t.preset,t.params),u=t.funcs,a=CLASS(t),r={};return r.type=a,n.addReady(function(){var n={};r.type=a,a.innerInit(n,r,void 0===i?{}:i(a),u)}),r}});

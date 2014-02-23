@@ -1,0 +1,23 @@
+//1393139343000
+WebPageExample.Python = CLASS({
+    preset: function() {
+        return VIEW;
+    },
+    init: function(cls, inner, self) {
+        var div, close;
+        div = DIV({
+            style: {
+                fontSize: 50
+            },
+            children: [ A({
+                children: [ "<-BACK" ],
+                onTap: function() {
+                    WebPageExample.GO("");
+                }
+            }), BR(), "Python!" ]
+        }).appendTo(BODY);
+        self.close = close = function(params) {
+            div.remove();
+        };
+    }
+});

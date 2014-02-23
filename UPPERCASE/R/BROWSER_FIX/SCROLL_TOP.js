@@ -1,0 +1,1 @@
+OVERRIDE({origin:SCROLL_TOP,func:function(){"use strict";global.SCROLL_TOP=METHOD({run:function(){var n=document.documentElement,o=document.body;return n&&n.scrollTop||o&&o.scrollTop||0}})}});
