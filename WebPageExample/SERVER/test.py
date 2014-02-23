@@ -3,4 +3,4 @@ def factorial(n):
         return 1
     return n * factorial(n - 1)
 
-console.log(factorial(10));
+print(factorial(10));

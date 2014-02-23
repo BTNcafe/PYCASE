@@ -25,7 +25,7 @@ global.BOOT = function(params) {
 				filename : path
 			}).print(output);
 
-			return output.toString();
+			return 'if (global.window === undefined) { global.window = global; }\n' + output.toString() + '';
 		}
 	};
 

@@ -1,8 +1,15 @@
-//1393139719000
+//1393142885000
+if (global.window === undefined) { global.window = global; }
+function _$rapyd$_print() {
+    var args, output;
+    args = [].slice.call(arguments, 0);
+    output = JSON.stringify(args);
+    if ("console" in window) console.log(output.substr(1, output.length-2));
+}
 function factorial(n) {
     if (n == 0) {
         return 1;
     }
     return n * factorial(n - 1);
 }
-console.log(factorial(10));
+_$rapyd$_print(factorial(10));
