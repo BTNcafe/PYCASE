@@ -1,6 +1,6 @@
 PYCASE
 ======
-UPPERCASE run with Python(3)!
+UPPERCASE run with Python(3). Full-stack Python!
 
 @with native JS performance!
 
