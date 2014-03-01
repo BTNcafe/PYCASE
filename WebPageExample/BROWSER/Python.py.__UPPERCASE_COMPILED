@@ -1,4 +1,5 @@
-//1393139343000
+//1393673826000
+if (global.window === undefined) { global.window = global; }
 WebPageExample.Python = CLASS({
     preset: function() {
         return VIEW;
