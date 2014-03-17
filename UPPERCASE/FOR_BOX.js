@@ -1,1 +1,1 @@
-global.FOR_BOX=METHOD({run:function(o,r){"use strict";var O,n=BOX.boxes;for(O in n)n.hasOwnProperty(O)===!0&&r(BOX.boxes[O])}});
+global.FOR_BOX=FOR_BOX=METHOD({run:function(O,o){"use strict";var r,n=BOX.boxes;for(r in n)n.hasOwnProperty(r)===!0&&o(BOX.boxes[r])}});

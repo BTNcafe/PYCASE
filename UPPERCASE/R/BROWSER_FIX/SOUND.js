@@ -1,1 +1,1 @@
-FOR_BOX(function(){"use strict";OVERRIDE({origin:SOUND,func:function(){global.SOUND=CLASS({init:function(n,i,t){var c;t.play=c=function(){}}})}})});
+FOR_BOX(function(){"use strict";OVERRIDE(SOUND,function(){global.SOUND=SOUND=CLASS({init:function(n,i,t){var O;t.play=O=function(){}}})})});

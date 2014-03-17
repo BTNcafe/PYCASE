@@ -1,1 +1,1 @@
-OVERRIDE({origin:ANIMATE,func:function(){"use strict";global.ANIMATE=METHOD({run:function(n,i,o){var u=i.duration;void 0!==o&&void 0!==u&&DELAY(function(){o()})}})}});
+OVERRIDE(ANIMATE,function(){"use strict";global.ANIMATE=ANIMATE=METHOD({run:function(n,i,o){var A=i.duration;void 0!==o&&void 0!==A&&DELAY(function(){o()})}})});

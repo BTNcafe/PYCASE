@@ -1,1 +1,1 @@
-OVERRIDE({origin:IFRAME,func:function(e){"use strict";global.IFRAME=CLASS({preset:function(){return e},init:function(e,n,t,i){var o=i.name,r=i.style;void 0!==o&&n.setEl(document.createElement('<iframe name="'+o+'" />')),void 0!==r&&t.addStyle(r)}})}});
+OVERRIDE(IFRAME,function(e){"use strict";global.IFRAME=IFRAME=CLASS({preset:function(){return e},init:function(e,t,n,i){var a=i.name,o=i.style;void 0!==a&&t.setEl(document.createElement('<iframe name="'+a+'" />')),void 0!==o&&n.addStyle(o)}})});

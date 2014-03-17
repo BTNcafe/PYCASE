@@ -1,1 +1,1 @@
-global.METHOD=function(t){"use strict";var n,r=t.statics,u=t.run;return n=function(t,r){return u(n,t,r)},n.type=METHOD,void 0!==r&&r(n),n};
+global.METHOD=METHOD=function(t){"use strict";var n,r=t.statics,u=t.run;return n=function(t,r){return u(n,t,r)},n.type=METHOD,void 0!==r&&r(n),n};

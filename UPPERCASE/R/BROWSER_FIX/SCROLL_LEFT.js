@@ -1,1 +1,1 @@
-OVERRIDE({origin:SCROLL_LEFT,func:function(){"use strict";global.SCROLL_LEFT=METHOD({run:function(){var n=document.documentElement,t=document.body;return n&&n.scrollLeft||t&&t.scrollLeft||0}})}});
+OVERRIDE(SCROLL_LEFT,function(){"use strict";global.SCROLL_LEFT=SCROLL_LEFT=METHOD({run:function(){var t=document.documentElement,L=document.body;return t&&t.scrollLeft||L&&L.scrollLeft||0}})});

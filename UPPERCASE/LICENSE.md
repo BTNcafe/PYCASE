@@ -9,7 +9,7 @@ UPPERCASE는 BTNcafe가 개발한 소프트웨어 솔루션으로서, UPPERCASE 
 
 Copyright ⓒ 2014 BTNcafe & Hanul.
 
-contact@btncafe.com
+contact@btncafe.com / hanul@hanul.me
 
 소프트웨어의 지적재산권과 라이센스
 ----------------------------------

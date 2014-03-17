@@ -1,1 +1,1 @@
-OVERRIDE({origin:SCROLL_TOP,func:function(){"use strict";global.SCROLL_TOP=METHOD({run:function(){var n=document.documentElement,o=document.body;return n&&n.scrollTop||o&&o.scrollTop||0}})}});
+OVERRIDE(SCROLL_TOP,function(){"use strict";global.SCROLL_TOP=SCROLL_TOP=METHOD({run:function(){var o=document.documentElement,n=document.body;return o&&o.scrollTop||n&&n.scrollTop||0}})});

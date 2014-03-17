@@ -1,4 +1,4 @@
-UPPERCASE
+![ScreenShot](http://uppercase.io/UPPERCASE/R/logo.png)
 =========
 UPPERCASE는 BTNcafe에서 개발한 Server-Side부터 Client-Side까지 웹 어플리케이션을 개발하는데 필요한 전 범위를 아우르는 Full Stack 프레임워크입니다.
 서버, 통신, 데이터베이스 처리 기술을 포함하고 있으며 브라우저의 기능을 wrapping합니다.
@@ -6,7 +6,7 @@ UPPERCASE는 BTNcafe에서 개발한 Server-Side부터 Client-Side까지 웹 어
 
 Version
 -------
-1.2.8
+1.2.13
 
 Based On
 --------
@@ -14,9 +14,7 @@ Based On
 - CommonJS Modules/1.0
 
 Browser-side:
-- IE 5.5 (SP1)
-- Firefox 3.5
-- Opera 10.5
+- IE 5.5를 포함한 현존하는 거의 모든 브라우저
 
 Server-side:
 - Node.js 0.10
